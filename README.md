@@ -80,6 +80,26 @@ LeetCode
   <img src="https://leetcard.jacoblin.cool/keshav_0506?theme=dark&font=Baloo&ext=contest" width="500" />
 </a>
 
+<div align="center">
+
+### 📅 LeetCode Activity
+
+<img
+  src="https://leetcode-calander-svg.vercel.app/keshav_0506"
+  width="100%"
+  alt="LeetCode Submission Calendar"
+/>
+
+<br/>
+
+<img
+  src="https://leetcode-calander-svg.vercel.app/keshav_0506/stats"
+  width="380"
+  alt="LeetCode Activity Statistics"
+/>
+
+</div>
+
 Codeforces
 
 <a href="https://codeforces.com/profile/keshav_0506">
