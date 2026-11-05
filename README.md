@@ -109,13 +109,18 @@ Codeforces
 
 ⸻
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=keshav0506&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav0506&layout=compact&theme=transparent&hide_border=true" />
-<br/>
-<img width="60%" src="https://streak-stats.demolab.com?user=keshav0506&theme=transparent&hide_border=true" />
+
+<img width="49%" src="./profile/stats.svg" />
+
+<img width="49%" src="./profile/top-langs.svg" />
+
+<br/><br/>
+
+<img width="75%" src="./profile/streak.svg" />
+
 </div>
 
 ⸻
